@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @surfinista
+- 👀 I’m interested in big data, building ai/ml pipelines and automation. Oh, I also love surfing and coffee
+- 🌱 I’m currently learning scala, spark, aws, and microservices
+- 💞️ I’m looking to collaborate on anything I find interesting
+- 📫 How to reach me mjbehrens18@gmail.com | https://www.linkedin.com/in/johnsbehrens/
