@@ -1,5 +1,4 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in big data, building data pipelines and automation.
-- 🌱 I’m currently learning scala, spark, and aws
-- 💞️ I’m looking to collaborate on anything I find interesting
+- 🌱 I’m currently working on a Flutter application with a Flask backend using Swagger OpenApi spec that lets users post surf conditions, and eventually photos, whereever they go. For now this designed to run on as a local server, but can be run on a k8s cluster as well, thanks to docker.
 - 📫 How to reach me mjbehrens18@gmail.com | https://www.linkedin.com/in/johnsbehrens/
